@@ -1,0 +1,12 @@
+[package]
+name = "canonicalize"
+version = "0.1.0"
+authors = ["Parker J. Rule <parker.rule@tufts.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.3"
+num-bigint = "0.3"
+num-traits = "0.2"
